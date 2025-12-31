@@ -1,6 +1,14 @@
 {
-  "latestVersion": "1.0.0",
-  "minimumVersion": "1.0.0",
+  "latestVersion":"1.0.1",
+  "minimumVersion":"1.0.0",
   "forceUpdate": false,
-  "updateMessage": "A new version of Noor Al Qibla is available! Update now to get the latest features, bug fixes, and improvements."
+  "updateMessage": {
+    "en": "Kindly update the app to access the newest features and enhancements. If you’re satisfied with your experience, we’d be grateful for your positive rating.",
+    "ar": "بتحديثك للتطبيق تمنحنا فرصة لنقدّم لك تجربة أصفى وأجمل. وإن وجدت فيه فائدة، فدعمك بتقييم طيب يساهم في استمرار هذا العمل.",
+    "es": "Por favor actualiza la aplicación para acceder a las funciones y mejoras más recientes. Si estás satisfecho con tu experiencia, agradeceríamos mucho tu valoración positiva.",
+    "fr": "Veuillez mettre à jour l’application pour accéder aux dernières fonctionnalités et améliorations. Si vous êtes satisfait de votre expérience, nous vous serions très reconnaissants de laisser une évaluation positive.",
+    "fa": "لطفاً برنامه را به‌روزرسانی کنید تا به جدیدترین قابلیت‌ها و بهبودها دسترسی داشته باشید. اگر از تجربه‌تان راضی هستید، از ثبت امتیاز مثبت شما بسیار سپاسگزار می‌شویم.",
+    "ur": "براہِ کرم ایپ کو اپ ڈیٹ کریں تاکہ آپ نئی خصوصیات اور بہتریوں تک رسائی حاصل کر سکیں۔ اگر آپ اپنی تجربے سے مطمئن ہیں تو آپ کی مثبت ریٹنگ ہمارے لیے باعثِ شکر گزار ہوگی"
+  },
+  "updateMessageDefault":"Kindly update the app to access the newest features and enhancements. If you’re satisfied with your experience, we’d be grateful for your positive rating."
 }
