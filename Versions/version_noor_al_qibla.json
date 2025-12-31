@@ -1,5 +1,5 @@
 {
-  "latestVersion":"1.0.1",
+  "latestVersion":"1.0.0",
   "minimumVersion":"1.0.0",
   "forceUpdate": false,
   "updateMessage": {
@@ -12,3 +12,4 @@
   },
   "updateMessageDefault":"Kindly update the app to access the newest features and enhancements. If you’re satisfied with your experience, we’d be grateful for your positive rating."
 }
+
